@@ -1,0 +1,1 @@
+NULL,Static ve OOP
